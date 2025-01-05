@@ -3,7 +3,7 @@ import time
 import csv
 
 # Set your API Key here
-API_KEY = "AIzaSyCXaIt1U23Z631tptMRlvz3d9cWOzucEVw"
+API_KEY = "Your_API_Key"
 
 # Base URL for the Google Places API
 BASE_URL = "https://maps.googleapis.com/maps/api/place/textsearch/json"
